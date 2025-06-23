@@ -7,7 +7,8 @@ A simple React-based weather dashboard that fetches real-time weather data from 
 - Displays temperature, humidity, and forecast
 
 ## Demo
-<img src ="https://github.com/user-attachments/assets/7335042d-f80d-4a41-ade0-a58830e48213" width="700"/>
+<img src ="https://github.com/user-attachments/assets/ff1c1ed2-f8e2-469a-9ec4-726ccebc9793" width="700"/>
+
 
 ## Setup
 
